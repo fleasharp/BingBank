@@ -1,0 +1,18 @@
+{
+  "name": "bingbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bing",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "currency-formatter": "^1.2.1",
+    "dotenv-extended": "^1.0.4",
+    "node-env-file": "^0.1.8",
+    "restify": "^4.3.0"
+  }
+}
